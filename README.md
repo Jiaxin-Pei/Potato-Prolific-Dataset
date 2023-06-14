@@ -28,6 +28,8 @@ config](https://github.com/davidjurgens/potato/tree/master/project-hub/offensive
 [Annotate] http://localhost:8000/?PROLIFIC_PID=user
 ```
 
+![Alt text](img/ui_offensiveness.png)
+
 #### Question Answering (SQuAD style)
 
 [yaml
@@ -40,6 +42,9 @@ config](https://github.com/davidjurgens/potato/tree/master/project-hub/reading_c
 [launch] potato start reading_comprehension -p 8000
 [Annotate] http://localhost:8000/?PROLIFIC_PID=user
 ```
+
+![Alt text](img/ui_question_answering.png)
+
 
 #### Text rewriting
 
@@ -54,6 +59,8 @@ config](https://github.com/davidjurgens/potato/tree/master/project-hub/email_rew
 [Annotate] http://localhost:8000/?PROLIFIC_PID=user
 ```
 
+![Alt text](img/ui_text_rewriting.png)
+
 #### Politeness rating
 
 [yaml
@@ -66,3 +73,5 @@ config](https://github.com/davidjurgens/potato/tree/master/project-hub/politenes
 [launch] potato start politeness_rating -p 8000
 [Annotate] http://localhost:8000/?PROLIFIC_PID=user
 ```
+
+![Alt text](img/ui_politeness_rating.png)
